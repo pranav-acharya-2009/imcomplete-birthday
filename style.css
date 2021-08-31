@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#imgc
+{
+   border: 5px;
+   border-color: rgb(164, 211, 255);
+   border-style:solid ; 
+   background-color: white;
+}
+
